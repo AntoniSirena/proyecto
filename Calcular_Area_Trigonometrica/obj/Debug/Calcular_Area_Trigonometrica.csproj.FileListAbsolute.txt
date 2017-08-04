@@ -1,0 +1,9 @@
+c:\users\estudiantes\documents\visual studio 2013\Projects\Calcular_Area_Trigonometrica\Calcular_Area_Trigonometrica\bin\Debug\Calcular_Area_Trigonometrica.exe.config
+c:\users\estudiantes\documents\visual studio 2013\Projects\Calcular_Area_Trigonometrica\Calcular_Area_Trigonometrica\bin\Debug\Calcular_Area_Trigonometrica.exe
+c:\users\estudiantes\documents\visual studio 2013\Projects\Calcular_Area_Trigonometrica\Calcular_Area_Trigonometrica\bin\Debug\Calcular_Area_Trigonometrica.pdb
+c:\users\estudiantes\documents\visual studio 2013\Projects\Calcular_Area_Trigonometrica\Calcular_Area_Trigonometrica\obj\Debug\Calcular_Area_Trigonometrica.csprojResolveAssemblyReference.cache
+c:\users\estudiantes\documents\visual studio 2013\Projects\Calcular_Area_Trigonometrica\Calcular_Area_Trigonometrica\obj\Debug\Calcular_Area_Trigonometrica.Form1.resources
+c:\users\estudiantes\documents\visual studio 2013\Projects\Calcular_Area_Trigonometrica\Calcular_Area_Trigonometrica\obj\Debug\Calcular_Area_Trigonometrica.Properties.Resources.resources
+c:\users\estudiantes\documents\visual studio 2013\Projects\Calcular_Area_Trigonometrica\Calcular_Area_Trigonometrica\obj\Debug\Calcular_Area_Trigonometrica.csproj.GenerateResource.Cache
+c:\users\estudiantes\documents\visual studio 2013\Projects\Calcular_Area_Trigonometrica\Calcular_Area_Trigonometrica\obj\Debug\Calcular_Area_Trigonometrica.exe
+c:\users\estudiantes\documents\visual studio 2013\Projects\Calcular_Area_Trigonometrica\Calcular_Area_Trigonometrica\obj\Debug\Calcular_Area_Trigonometrica.pdb
